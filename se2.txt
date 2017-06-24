@@ -1,0 +1,104 @@
+Process: A Generic View
+
+A software process 
+is a roadmap to building high quality software products. 
+provides a framework for managing activities. 
+adapts to meet needs of software engineers and managers.
+ 
+Different types of projects require different software processes.
+ 
+Best indicators of how well a process worked are the quality, timeliness, and long-term viability of the resulting software product.
+
+
+Software Processes :
+
+What is a process?
+Sequence of steps required to develop or maintain software
+
+
+Characteristics
+prescribes major activities
+constraints and controls apply to activities, resources, and products
+utilizes resources, subject to constraints such as schedule, to produce intermediate and final results
+constraints on activities: time, budget, tools
+controls on activities: config. mgmt, reports
+
+
+A Process Framework:
+
+Process framework
+Framework activities
+  work tasks
+  work products
+  milestones & deliverables
+  QA checkpoints
+Umbrella Activities
+
+
+Umbrella Activities :
+
+Software project tracking and control
+Formal technical reviews 
+Software quality assurance 
+Software configuration management 
+Work product preparation and production (activities to create models, documents, logs, forms, lists, etc.)
+Reusability management (defines criteria for work product reuse and establish mechanisms to achieve component reuse) 
+Measurement 
+Risk management 
+
+
+
+Identifying a Task Set:
+
+A task set defines the actual work to be done to accomplish the objectives of a software engineering action.
+--A list of the task to be accomplished
+--A list of the work products to be produced
+--A list of the quality assurance filters to be   applied
+
+Attributes for Comparing Process Models :
+
+Overall flow and level of task dependencies
+Degree to which work products are identified and required within each framework activity 
+Manner in which quality assurance activities are applied 
+Manner in which project tracking and control activities are applied 
+Overall degree of detail and rigor of process description 
+Degree to which stakeholders are involved in the project 
+Level of autonomy given to project team 
+Degree to which team organization and roles are prescribed
+
+Process Assessment :
+
+SPICE (ISO/IE15504) standard defines a set of requirements for process assessment 
+
+ISO 9001:2000 for Software defines requirements for a quality management system that will produce higher quality products and improve customer satisfaction 
+
+Software Engineering Institute (SEI) Capability Maturity Model Integration (CMMI) :
+
+Level 0: Incomplete (process is not performed)
+Level 1: Performed (tasks are being conducted) 
+Level 2: Managed (tasks and products are monitored, reviewed, and evaluated for conformance to process description) 
+Level 3: Defined (processes documented, standardized, and integrated into organization-wide software process) 
+Level 4: Quantitatively Managed (software process and products are quantitatively understood and controlled using detailed measures) 
+Level 5: Optimizing (continuous process improvement is enabled by quantitative feedback from the process and testing innovative ideas) 
+
+
+Team Software Process :
+
+Objectives 
+Build self-directed teams that plan and track their work, establish goals, and own their processes and plans 
+Show managers how to coach and motivate their teams and maintain peak performance 
+Accelerate software process improvement by making CCM Level 5 behavior normal and expected 
+Provide improvement guidance to high-maturity organizations 
+Facilitate university teaching of industrial team skills
+
+
+Team Software Process 
+
+Scripts for Project Activities 
+Project launch 
+Design 
+Implementation 
+Integration and system testing 
+Postmortem
+
+
